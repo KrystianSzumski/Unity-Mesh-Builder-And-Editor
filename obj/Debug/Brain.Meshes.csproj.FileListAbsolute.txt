@@ -1,0 +1,12 @@
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\bin\Debug\Brain.Meshes.dll
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\bin\Debug\Brain.Meshes.pdb
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\bin\Debug\UnityEditor.dll
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\bin\Debug\UnityEngine.dll
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\obj\Debug\Brain.Meshes.csprojAssemblyReference.cache
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\obj\Debug\Brain.Meshes.csproj.CoreCompileInputs.cache
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\obj\Debug\Brain.Meshes.csproj.CopyComplete
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\obj\Debug\Brain.Meshes.dll
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\obj\Debug\Brain.Meshes.pdb
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\obj\Debug\Brain.Meshes.csproj.GenerateResource.cache
+C:\Users\komputer\source\repos\Brain.Meshes\Brain.Meshes\obj\Debug\Brain.Meshes.Properties.Resources.resources
